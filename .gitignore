@@ -1,0 +1,10 @@
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local model and tool caches
+.huggingface/
+
+# Local runtime logs
+*.log

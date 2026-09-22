@@ -1,0 +1,16 @@
+employee_id,name,department,role,salary_inr,manager_id,joined_date,status
+E001,Alice Sharma,HR,HR Manager,1200000,E010,2021-03-15,Active
+E002,Bob Mehta,Finance,Finance Analyst,950000,E011,2022-07-01,Active
+E003,Charlie Nair,IT,Security Engineer,1100000,E012,2020-11-20,Active
+E004,Diana Roy,Engineering,Senior SDE,1500000,E013,2019-06-10,Active
+E005,Ethan Khan,Sales,Sales Executive,700000,E014,2023-01-05,Active
+E006,Fatima Ali,HR,HR Executive,650000,E001,2023-08-12,Active
+E007,George Pillai,Finance,CFO,3500000,E010,2018-04-01,Active
+E008,Hannah Singh,Engineering,Tech Lead,1800000,E013,2017-09-25,Active
+E009,Ivan Patel,IT,IT Admin,800000,E012,2022-03-14,Active
+E010,Jasmine CEO,Admin,CEO,5000000,,2015-01-01,Active
+E011,Kevin CFO,Finance,Finance Director,3000000,E010,2016-05-10,Active
+E012,Laura CTO,IT,CTO,4000000,E010,2016-07-15,Active
+E013,Mike VP,Engineering,VP Engineering,3500000,E010,2017-02-20,Active
+E014,Nancy Sales,Sales,Sales Head,2500000,E010,2018-11-30,Active
+E015,Omar Dev,Engineering,Junior SDE,750000,E013,2024-06-01,Active

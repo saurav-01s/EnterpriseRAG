@@ -1,0 +1,46 @@
+ACME CORP — HR POLICY HANDBOOK v2.5 (CONFIDENTIAL)
+=================================================================
+Effective Date: January 1, 2025 | Last Updated: March 15, 2025
+
+SECTION 1: LEAVE POLICY
+------------------------------
+Annual Leave: 20 days per year (pro-rated for new hires).
+Sick Leave: 10 days per calendar year. Medical certificate required for absences exceeding 3 consecutive days.
+Maternity Leave: 26 weeks fully paid, followed by optional 13 weeks unpaid.
+Paternity Leave: 4 weeks fully paid within 3 months of birth.
+Bereavement Leave: 5 days for immediate family, 2 days for extended family.
+
+SECTION 2: REMOTE WORK POLICY
+------------------------------
+Employees may work remotely up to 3 days per week with manager approval.
+Core hours for remote workers: 10:00 AM – 3:00 PM local time.
+IT Security Policy compliance is mandatory for all remote access.
+Temporary full-remote arrangements (up to 4 weeks/year) require VP approval.
+
+SECTION 3: PERFORMANCE REVIEW PROCESS
+------------------------------
+Bi-annual reviews: June (mid-year check-in) and December (annual review).
+Rating Scale: Exceeds Expectations | Meets Expectations | Needs Improvement.
+Salary increments: 0–3% for Meets, 3–8% for Exceeds, 0% for Needs Improvement.
+Promotion eligibility: Minimum 2 consecutive 'Exceeds Expectations' reviews.
+
+SECTION 4: COMPENSATION & BENEFITS
+------------------------------
+Salary bands are reviewed annually against market benchmarks.
+Bonus pool: 15% of base salary for VP level; 10% for Manager; 7% for Analyst/Associate.
+401k: Company matches 4% of employee contribution. Vesting: 3-year cliff.
+Health benefits: Medical, Dental, Vision fully covered for employee; 50% for dependents.
+
+SECTION 5: RECRUITMENT & ONBOARDING
+------------------------------
+All open positions must be approved by department VP and HR Manager.
+Interview process: Recruiter screen → Technical/functional round → HR round → Offer.
+Onboarding duration: 90-day structured program with assigned buddy.
+Background check and reference check required for all hires.
+
+SECTION 6: CODE OF CONDUCT
+------------------------------
+Zero tolerance policy on harassment, discrimination, and retaliation.
+Conflicts of interest must be disclosed to HR within 15 days of arising.
+Disciplinary actions: Verbal warning → Written warning → Suspension → Termination.
+Whistleblower protections apply for good-faith reporting of policy violations.

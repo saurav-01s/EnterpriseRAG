@@ -1,0 +1,134 @@
+ACME CORP — EMPLOYEE RECORDS (CONFIDENTIAL — HR ACCESS ONLY)
+=================================================================
+Generated: 2026-09-13 | Total Employees: 10
+
+Employee ID    : E001
+Full Name      : Alice Johnson
+Department     : Management
+Level          : VP
+Annual Salary  : $120,000
+Manager        : Board
+Hire Date      : 2018-04-02
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Exceeds Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E002
+Full Name      : Bob Smith
+Department     : HR
+Level          : Manager
+Annual Salary  : $85,000
+Manager        : Alice Johnson
+Hire Date      : 2020-02-01
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Meets Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E003
+Full Name      : Carol Davis
+Department     : Finance
+Level          : Analyst
+Annual Salary  : $92,000
+Manager        : Alice Johnson
+Hire Date      : 2019-07-04
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Meets Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E004
+Full Name      : Dave Wilson
+Department     : IT
+Level          : Engineer
+Annual Salary  : $98,000
+Manager        : Alice Johnson
+Hire Date      : 2018-02-24
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Exceeds Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E005
+Full Name      : Eve Martinez
+Department     : Compliance
+Level          : Officer
+Annual Salary  : $88,000
+Manager        : Alice Johnson
+Hire Date      : 2023-08-16
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Exceeds Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E006
+Full Name      : Frank Lee
+Department     : HR
+Level          : Associate
+Annual Salary  : $72,000
+Manager        : Bob Smith
+Hire Date      : 2017-05-11
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Exceeds Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E007
+Full Name      : Grace Kim
+Department     : Finance
+Level          : Analyst
+Annual Salary  : $80,000
+Manager        : Carol Davis
+Hire Date      : 2018-01-19
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Meets Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E008
+Full Name      : Henry Chen
+Department     : IT
+Level          : Senior Eng
+Annual Salary  : $95,000
+Manager        : Dave Wilson
+Hire Date      : 2019-08-11
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Exceeds Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E009
+Full Name      : Irene Patel
+Department     : HR
+Level          : Associate
+Annual Salary  : $68,000
+Manager        : Bob Smith
+Hire Date      : 2023-04-18
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Meets Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+
+Employee ID    : E010
+Full Name      : James O'Brien
+Department     : Compliance
+Level          : Analyst
+Annual Salary  : $76,000
+Manager        : Eve Martinez
+Hire Date      : 2023-02-11
+Employment Type: Full-Time
+Status         : Active
+Last Review    : Exceeds Expectations
+Benefits       : Health, Dental, Vision, 401k (4% match)
+---------------------------------------------
+

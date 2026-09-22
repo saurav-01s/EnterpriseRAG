@@ -1,0 +1,42 @@
+ACME CORP — IT INFRASTRUCTURE REPORT 2025 (CONFIDENTIAL — IT ACCESS ONLY)
+=================================================================
+Prepared by: Dave Wilson, IT Engineer
+
+1. SERVER INFRASTRUCTURE
+------------------------------
+Production fleet: 5 bare-metal servers (prod-server-01 to prod-server-05).
+OS: Ubuntu 22.04 LTS. Uptime SLA achieved: 99.97% YTD (target: 99.9%).
+Specs per server: 64GB RAM, 32-core AMD EPYC, 10TB NVMe SSD RAID-10.
+Load balancer: HAProxy v2.8 with active-passive failover.
+Container orchestration: Docker Swarm (migration to K8s planned Q3 2025).
+
+2. SECURITY INCIDENTS & RESPONSES
+------------------------------
+Jan 2025: Brute-force attempt on SSH — 3 IPs blocked via fail2ban. No breach.
+Feb 2025: Insider threat investigation — ex-contractor credentials revoked. No data exfil.
+Mar 2025: Phishing campaign targeting Finance team — 12 emails quarantined.
+         2 employees clicked malicious link; accounts reset within 20 minutes.
+Apr 2025: Log4Shell vulnerability scan — all systems patched. 0 vulnerable instances.
+May 2025: DDoS attack on payment-api — mitigated via Cloudflare within 4 minutes.
+         Peak attack traffic: 120,000 requests/second. Zero customer impact.
+
+3. NETWORK ARCHITECTURE
+------------------------------
+Public-facing: Cloudflare CDN → WAF → Load Balancer.
+Internal: VLAN-segmented network (VLAN 10: Prod, VLAN 20: Dev, VLAN 30: Mgmt).
+VPN: Wireguard for remote access; 2FA enforced for all VPN connections.
+Firewall: iptables with default-deny inbound; only ports 80/443/22 exposed.
+
+4. PLANNED UPGRADES (H2 2025)
+------------------------------
+Q3 2025: Full Kubernetes migration — estimated effort 6 weeks, $180K cost.
+Q3 2025: Implement centralized SIEM (Elasticsearch + Kibana).
+Q4 2025: Zero-trust network architecture — microsegmentation of all services.
+Q4 2025: Hardware refresh for prod-server-01 and prod-server-02 (EOL Dec 2025).
+
+5. MONITORING & ALERTING
+------------------------------
+Tools: Prometheus + Grafana for metrics; PagerDuty for on-call alerting.
+SLO: API p99 latency < 500ms. Current p99: 312ms. ✓
+SLO: Error rate < 0.1%. Current error rate: 0.04%. ✓
+Alert escalation: P1 (15 min) → P2 (1 hr) → P3 (4 hr) → P4 (next business day).

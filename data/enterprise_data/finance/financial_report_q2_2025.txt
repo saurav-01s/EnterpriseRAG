@@ -1,0 +1,45 @@
+ACME CORP — FINANCIAL REPORT Q2 2025 (CONFIDENTIAL — FINANCE ACCESS ONLY)
+=================================================================
+Prepared by: Carol Davis, Finance Analyst
+Approved by: Alice Johnson, VP Management
+Date: July 05, 2025
+
+EXECUTIVE SUMMARY
+------------------------------
+Q2 2025 consolidated revenue: $6,200,000 (+29.2% YoY vs Q2 2024 $4,800,000).
+Net profit: $1,300,000 (margin: 21.0%), up from $900,000 in Q2 2024.
+Total operating expenses: $2,850,000. EBITDA: $1,680,000.
+
+REVENUE BREAKDOWN BY PRODUCT LINE
+------------------------------
+AcmeFlow (workflow automation): $3,100,000 (50% of total revenue)
+AcmeInsight (BI dashboards): $1,860,000 (30% of total revenue)
+AcmeSecure (compliance tools): $1,240,000 (20% of total revenue)
+
+KEY FINANCIAL HIGHLIGHTS
+------------------------------
+1. Sales team exceeded Q2 target of $5.8M by 6.9%.
+2. IT infrastructure upgrade completed $220K under the $1.2M budget.
+3. Customer acquisition cost (CAC) reduced by 12% via organic growth channels.
+4. Annual Recurring Revenue (ARR) stands at $22.4M as of June 2025.
+5. Net Revenue Retention (NRR): 118%, indicating strong upsell momentum.
+
+COST ANALYSIS
+------------------------------
+Cost of Goods Sold (COGS): $2,050,000 — gross margin improved to 66.9%.
+R&D spend: $780,000 (12.6% of revenue), consistent with industry norms.
+Sales & Marketing: $1,100,000 (17.7% of revenue).
+G&A: $420,000 (6.8% of revenue).
+
+FORECAST H2 2025
+------------------------------
+H2 2025 revenue projection: $13,500,000 (full year: $25,600,000).
+New enterprise deals pipeline: $8.2M, 65% close probability.
+Cost optimization initiative projected to save $500,000 in H2.
+Series B fundraising round targeting $15M, process begins Q3 2025.
+
+RISKS
+------------------------------
+1. Competitive pressure from larger vendors (ServiceNow, Salesforce).
+2. Currency risk: 15% of revenue in EUR and GBP.
+3. Key-person dependency: 3 strategic accounts managed by single AE.

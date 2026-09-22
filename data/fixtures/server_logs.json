@@ -1,0 +1,191 @@
+[
+  {
+    "log_id": "L001",
+    "timestamp": "2026-03-01T08:12:34Z",
+    "event": "login_success",
+    "user": "alice_hr",
+    "ip": "10.0.1.5",
+    "service": "HR Portal",
+    "status": "200"
+  },
+  {
+    "log_id": "L002",
+    "timestamp": "2026-03-01T08:45:11Z",
+    "event": "document_access",
+    "user": "alice_hr",
+    "ip": "10.0.1.5",
+    "service": "HR Portal",
+    "document": "hr_policy.pdf",
+    "status": "200"
+  },
+  {
+    "log_id": "L003",
+    "timestamp": "2026-03-01T09:02:45Z",
+    "event": "login_failed",
+    "user": "bob_finance",
+    "ip": "10.0.2.8",
+    "service": "Finance Portal",
+    "reason": "wrong_password",
+    "status": "401"
+  },
+  {
+    "log_id": "L004",
+    "timestamp": "2026-03-01T09:03:10Z",
+    "event": "login_failed",
+    "user": "bob_finance",
+    "ip": "10.0.2.8",
+    "service": "Finance Portal",
+    "reason": "wrong_password",
+    "status": "401"
+  },
+  {
+    "log_id": "L005",
+    "timestamp": "2026-03-01T09:04:55Z",
+    "event": "login_success",
+    "user": "bob_finance",
+    "ip": "10.0.2.8",
+    "service": "Finance Portal",
+    "status": "200"
+  },
+  {
+    "log_id": "L006",
+    "timestamp": "2026-03-01T09:30:00Z",
+    "event": "unauthorized_access",
+    "user": "bob_finance",
+    "ip": "10.0.2.8",
+    "service": "HR Portal",
+    "document": "hr_policy.pdf",
+    "reason": "insufficient_permissions",
+    "status": "403"
+  },
+  {
+    "log_id": "L007",
+    "timestamp": "2026-03-01T10:15:22Z",
+    "event": "login_success",
+    "user": "charlie_it",
+    "ip": "10.0.3.12",
+    "service": "IT Portal",
+    "status": "200"
+  },
+  {
+    "log_id": "L008",
+    "timestamp": "2026-03-01T10:20:00Z",
+    "event": "document_access",
+    "user": "charlie_it",
+    "ip": "10.0.3.12",
+    "service": "IT Portal",
+    "document": "it_compliance_report.pdf",
+    "status": "200"
+  },
+  {
+    "log_id": "L009",
+    "timestamp": "2026-03-01T11:00:00Z",
+    "event": "api_call",
+    "user": "charlie_it",
+    "ip": "10.0.3.12",
+    "endpoint": "/admin/export",
+    "method": "GET",
+    "status": "403",
+    "alert": "UNAUTHORIZED_ADMIN_ACCESS"
+  },
+  {
+    "log_id": "L010",
+    "timestamp": "2026-03-01T11:05:33Z",
+    "event": "alert_triggered",
+    "severity": "HIGH",
+    "message": "Repeated unauthorized admin access attempt by charlie_it",
+    "action_taken": "account_flagged"
+  },
+  {
+    "log_id": "L011",
+    "timestamp": "2026-03-01T13:00:00Z",
+    "event": "login_success",
+    "user": "admin",
+    "ip": "10.0.0.1",
+    "service": "Admin Portal",
+    "status": "200"
+  },
+  {
+    "log_id": "L012",
+    "timestamp": "2026-03-01T13:10:00Z",
+    "event": "document_access",
+    "user": "admin",
+    "ip": "10.0.0.1",
+    "service": "Admin Portal",
+    "document": "finance_report.pdf",
+    "status": "200"
+  },
+  {
+    "log_id": "L013",
+    "timestamp": "2026-03-02T08:00:00Z",
+    "event": "system_backup",
+    "service": "Backup Service",
+    "status": "success",
+    "size_gb": 142
+  },
+  {
+    "log_id": "L014",
+    "timestamp": "2026-03-02T09:30:00Z",
+    "event": "password_reset",
+    "user": "bob_finance",
+    "ip": "10.0.2.8",
+    "status": "200"
+  },
+  {
+    "log_id": "L015",
+    "timestamp": "2026-03-02T14:45:00Z",
+    "event": "login_failed",
+    "user": "unknown_user",
+    "ip": "192.168.10.45",
+    "service": "Admin Portal",
+    "reason": "user_not_found",
+    "status": "404",
+    "alert": "SUSPICIOUS_IP"
+  },
+  {
+    "log_id": "L016",
+    "timestamp": "2026-03-03T10:00:00Z",
+    "event": "data_export",
+    "user": "george_finance",
+    "ip": "10.0.2.20",
+    "service": "Finance Portal",
+    "file": "q1_report_export.csv",
+    "status": "200"
+  },
+  {
+    "log_id": "L017",
+    "timestamp": "2026-03-03T10:05:00Z",
+    "event": "alert_triggered",
+    "severity": "MEDIUM",
+    "message": "Large data export detected by george_finance",
+    "action_taken": "logged_for_review"
+  },
+  {
+    "log_id": "L018",
+    "timestamp": "2026-03-04T16:00:00Z",
+    "event": "session_timeout",
+    "user": "diana_eng",
+    "ip": "10.0.4.5",
+    "service": "Engineering Portal",
+    "status": "408"
+  },
+  {
+    "log_id": "L019",
+    "timestamp": "2026-03-05T09:15:00Z",
+    "event": "login_success",
+    "user": "diana_eng",
+    "ip": "10.0.4.5",
+    "service": "Engineering Portal",
+    "status": "200"
+  },
+  {
+    "log_id": "L020",
+    "timestamp": "2026-03-05T11:30:00Z",
+    "event": "document_upload",
+    "user": "diana_eng",
+    "ip": "10.0.4.5",
+    "service": "Engineering Portal",
+    "document": "system_architecture_v2.pdf",
+    "status": "201"
+  }
+]

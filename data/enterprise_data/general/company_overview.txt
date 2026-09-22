@@ -1,0 +1,46 @@
+ACME CORP — COMPANY OVERVIEW & MISSION
+=================================================================
+Founded: 2010 | Headquarters: 555 Market Street, San Francisco, CA 94105
+Total Employees: ~127 globally (as of June 2025)
+Annual Revenue FY2024: $20,400,000 | ARR June 2025: $22,400,000
+Investors: Series A ($6M) — Sequoia Capital, Andreessen Horowitz (2019)
+
+MISSION STATEMENT
+------------------------------
+Delivering secure, intelligent enterprise workflow automation that empowers
+organizations to operate with clarity, compliance, and competitive advantage.
+
+CORE PRODUCTS
+------------------------------
+1. AcmeFlow (Enterprise Workflow Automation)
+   - No-code/low-code workflow builder
+   - 200+ pre-built enterprise integrations (Salesforce, SAP, Workday)
+   - 850 active enterprise customers | NPS: 67
+
+2. AcmeInsight (Business Intelligence Dashboard)
+   - Real-time data visualization and reporting
+   - AI-powered anomaly detection and forecasting
+   - 420 active customers | NPS: 72
+
+3. AcmeSecure (Compliance & Audit Management)
+   - Automated compliance monitoring for SOC2, GDPR, HIPAA
+   - Audit trail management and risk scoring
+   - 310 active customers | NPS: 79
+
+ORGANIZATIONAL STRUCTURE
+------------------------------
+Executive Team: Alice Johnson (VP/Acting CEO), Board of Directors (5 members)
+Product & Engineering (55 employees): Builds and maintains all three products
+Sales & Marketing (40 employees): Customer acquisition, retention, partnerships
+Finance (8 employees): Accounting, FP&A, investor relations
+HR (12 employees): Talent acquisition, L&D, employee experience
+Compliance & Legal (7 employees): Regulatory adherence, risk, contract review
+IT (20 employees): Infrastructure, security, DevOps, internal tools
+
+STRATEGIC PRIORITIES 2025
+------------------------------
+1. Raise Series B ($15M target) by Q4 2025 to fund EMEA expansion.
+2. Launch AcmeFlow 3.0 with AI-native workflow generation (Q3 2025).
+3. Achieve SOC 2 Type II recertification by December 2025.
+4. Grow ARR to $30M by end of 2025 via upsell + new enterprise wins.
+5. Open London office (EMEA HQ) by Q1 2026.
