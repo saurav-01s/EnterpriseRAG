@@ -1143,7 +1143,7 @@ def run_demo(rag: EnterpriseRAG):
 BANNER = """
 ╔══════════════════════════════════════════════════════════════╗
 ║       ACME CORP — Enterprise RAG Intelligence System         ║
-║       LLM: Ollama qwen2.5  |  DB: ChromaDB  |  RBAC: On     ║
+║       LLM: Ollama qwen2.5  |  DB: ChromaDB  |  RBAC: On      ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
