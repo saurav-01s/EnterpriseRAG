@@ -24,7 +24,7 @@ The project enforces access control using demo users and roles, searches both se
 From a fresh clone:
 
 ```powershell
-git clone https://github.com/<your-username>/EnterpriseRAG.git
+git clone https://github.com/saurav-01s/EnterpriseRAG.git
 cd EnterpriseRAG
 ```
 
