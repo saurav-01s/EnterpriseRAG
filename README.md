@@ -1,6 +1,6 @@
 # Enterprise RAG Intelligence System
 
-A local, role-aware Retrieval-Augmented Generation (RAG) system for querying enterprise documents across HR, Finance, IT, Compliance, and General information silos.
+A local, role-aware Retrieval-Augmented Generation (RAG) system for querying enterprise documents across HR, Finance, IT, Compliance, and General  information silos.
 
 The project enforces access control using demo users and roles, searches both semantic embeddings and keyword signals, and returns grounded answers with source citations.
 
